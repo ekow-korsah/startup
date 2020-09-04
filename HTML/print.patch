@@ -1,0 +1,119 @@
+Index: HTML/.idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/modules.xml	(date 1590259677980)
++++ HTML/.idea/modules.xml	(date 1590259677980)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/HTML.iml" filepath="$PROJECT_DIR$/.idea/HTML.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: HTML/.idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/inspectionProfiles/profiles_settings.xml	(date 1590259677985)
++++ HTML/.idea/inspectionProfiles/profiles_settings.xml	(date 1590259677985)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: HTML/test.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/test.py	(date 1590259854339)
++++ HTML/test.py	(date 1590259854339)
+@@ -0,0 +1,1 @@
++print("Hello world")
+\ No newline at end of file
+Index: HTML/.idea/libraries/R_User_Library.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/libraries/R_User_Library.xml	(date 1590259677991)
++++ HTML/.idea/libraries/R_User_Library.xml	(date 1590259677991)
+@@ -0,0 +1,6 @@
++<component name="libraryTable">
++  <library name="R User Library">
++    <CLASSES />
++    <SOURCES />
++  </library>
++</component>
+\ No newline at end of file
+Index: HTML/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/.gitignore	(date 1590259678071)
++++ HTML/.idea/.gitignore	(date 1590259678071)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
+Index: HTML/.idea/HTML.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/HTML.iml	(date 1590259677966)
++++ HTML/.idea/HTML.iml	(date 1590259677966)
+@@ -0,0 +1,14 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++    <orderEntry type="library" name="R Skeletons" level="application" />
++    <orderEntry type="library" name="R User Library" level="project" />
++  </component>
++  <component name="PyDocumentationSettings">
++    <option name="format" value="PLAIN" />
++    <option name="myDocStringFormat" value="Plain" />
++  </component>
++</module>
+\ No newline at end of file
+Index: HTML/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/vcs.xml	(date 1590259677970)
++++ HTML/.idea/vcs.xml	(date 1590259677970)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: HTML/.idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- HTML/.idea/misc.xml	(date 1590259677974)
++++ HTML/.idea/misc.xml	(date 1590259677974)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.7" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
